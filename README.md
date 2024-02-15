@@ -1,7 +1,4 @@
-# Traitor
-dobavil
-dobavil
-dobavil
+# Traitor 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
